@@ -1,0 +1,64 @@
+body {
+    margin: 0%;
+}
+
+header {
+    background-color: black;
+    height: 96.98px;
+    
+}
+nav {
+    color: white;
+    margin-top: 28px;
+    margin-left: 31%;
+    vertical-align: text-top;
+    position: absolute;
+    top: 16.8px;
+}
+nav ul {
+    list-style-type: none;
+    height: 45px;
+    
+}
+nav ul a {
+    text-decoration: none;
+    color: white;
+}
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+.abeijing a:hover {
+    background-color:rgb(33, 98, 124);
+    padding: 9px 15px 15px 15px; 
+  
+   
+}
+#logo {
+    position: absolute;
+    left: 30%;
+}
+#fangwu {
+    position: absolute;
+    top: 51.99px;
+    left: 30%;
+}
+#china {
+    position: absolute;
+    top: 20px;
+    left: 63%;
+}
+#china a:link {
+    color:rgb(59, 190, 218);
+    text-decoration: none;
+}
+#china a:hover {
+    text-decoration: underline;
+}
+aside {
+    position: absolute;
+    top: 95px;
+}
+    
