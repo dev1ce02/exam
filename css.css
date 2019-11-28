@@ -1,19 +1,21 @@
 body {
     margin: 0%;
+    font-size: small;
 }
 
 header {
     background-color: black;
     height: 96.98px;
     
+    
 }
 nav {
     color: white;
     margin-top: 28px;
-    margin-left: 31%;
+    margin-left: 25%;
     vertical-align: text-top;
     position: absolute;
-    top: 16.8px;
+    top: 23px;
 }
 nav ul {
     list-style-type: none;
@@ -32,33 +34,59 @@ nav ul li {
 }
 .abeijing a:hover {
     background-color:rgb(33, 98, 124);
-    padding: 9px 15px 15px 15px; 
+    padding: 12px 15px 14px 15px; 
   
    
 }
 #logo {
-    position: absolute;
-    left: 30%;
+    margin-left: 24%;
+    padding-top: 15px;
 }
 #fangwu {
     position: absolute;
     top: 51.99px;
-    left: 30%;
+    left: 24%;
 }
 #china {
     position: absolute;
     top: 20px;
-    left: 63%;
+    left: 61%;
+    padding-right:45px;
+    padding-bottom: 6px;
+    border-right: 1px solid #454545;
+    
 }
 #china a:link {
-    color:rgb(59, 190, 218);
+    color:rgb(85, 190, 218);
     text-decoration: none;
 }
+#china a:visited {
+  color:rgb(85, 190, 218);
+}
 #china a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  color:rgb(85, 190, 218);
 }
+
 aside {
-    position: absolute;
-    top: 95px;
+   width: 500px;
 }
-    
+#anjian {
+  position: absolute;
+  margin-left: 66.2%;
+  top: 20px;
+}
+#sousuolan {
+   position: absolute;
+    background: transparent;
+    border: 1px solid #454545;
+    border-radius: 2px;
+    -webkit-box-sizing:border-box;
+    color: #fefefe;
+    font-size: 14px;
+    height: 24px;
+    padding: 2px 5px;
+    width: 150px;
+    margin-left: 69%;
+    top:20px;
+}
