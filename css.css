@@ -32,7 +32,7 @@ nav ul li {
     margin-left: 10px;
     
 }
-.abeijing a:hover {
+.beijing2 a:hover {
     background-color:rgb(33, 98, 124);
     padding: 12px 15px 14px 15px; 
   
@@ -73,7 +73,7 @@ aside {
    width: 1920px;
    height: 660px;
 }
-#anjian {
+#anniu {
   position: absolute;
   margin-left: 66.2%;
   top: 20px;
@@ -121,4 +121,18 @@ aside {
 }
 #blue {
     margin-left: 100px;
+}
+h2 {
+      padding-left:    700px;
+      padding-right:    700px;
+}
+a {
+     color:  #0093de;
+     font-family:   inherit;
+     font-size:     inherit;
+     font-weight:    inherit;
+     text-decoration:   none;
+     text-decoration-line:  none;
+     text-decoration-style:   none;
+     text-decoration-color:   #0093de;
 }
