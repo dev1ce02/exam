@@ -136,3 +136,15 @@ a {
      text-decoration-style:   none;
      text-decoration-color:   #0093de;
 }
+.primary-menu-link{
+  padding-left:   15px;
+  padding-right:  15px;
+}
+.constrained-width>.col{
+      padding-left:     10px;
+      padding-right:     10px;
+}
+.col{
+    position: relative;
+    width:    100%;
+}
